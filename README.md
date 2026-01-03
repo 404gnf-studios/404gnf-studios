@@ -1,6 +1,8 @@
 # 🎮 404 Game Not Found Studios
 
 Somos a **404 Game Not Found Studios**, um estúdio indie formado por dois estudantes de programação interessados por jogos e desenvolvimento.
+  
+  > https://www.instagram.com/404gnf_studios/  
 
 ---
 

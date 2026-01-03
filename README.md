@@ -7,10 +7,10 @@ Somos a **404 Game Not Found Studios**, um estúdio indie formado por dois estud
 ## 👥 Quem somos
 
 - **Mateus** — Desenvolvedor  
-  GitHub: https://github.com/XxMisticoxX
+  > GitHub: https://github.com/XxMisticoxX
   
 - **Filipe** — Desenvolvedor  
-  GitHub: https://github.com/filipemacarini
+  > GitHub: https://github.com/filipemacarini
 
 ---
 

@@ -6,8 +6,8 @@ Somos a **404 Game Not Found Studios**, um estúdio indie formado por dois estud
 
 ## 👥 Quem somos
 
-- **Filipe** — Desenvolvedor  
 - **Mateus** — Desenvolvedor  
+- **Filipe** — Desenvolvedor  
 
 ---
 

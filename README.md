@@ -72,7 +72,7 @@ Vamos publicar:
 
 📌 Links importantes:
 - Instagram: https://www.instagram.com/404gnf_studios/
-- Site do projeto: *em breve*
+- Site do projeto: 🔗 https://404gnf-studios.github.io/realmfall/
 
 ---
 

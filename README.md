@@ -9,7 +9,7 @@ Somos a **404 Game Not Found Studios**, um estúdio indie formado por dois estud
 ## 👥 Quem somos
 
 - **Mateus** — Desenvolvedor  
-  > GitHub: https://github.com/XxMisticoxX
+  > GitHub: https://github.com/PHOBOSSPEC
   
 - **Filipe** — Desenvolvedor  
   > GitHub: https://github.com/filipemacarini
@@ -46,8 +46,7 @@ Entre em contato pelo e-mail: **404gamenotfound@proton.me**
 
 - **Engine:** Godot 4.5  
 - **Linguagem:** GDScript  
-  > *(Em fase de testes — existe a possibilidade de migrar para C# futuramente)*  
-- **Multiplayer:** Nakama (em fase de testes)
+- **Multiplayer:** Nakama 
 
 As tecnologias podem mudar conforme o desenvolvimento evoluir.
 
@@ -58,9 +57,7 @@ As tecnologias podem mudar conforme o desenvolvimento evoluir.
 > 🧠 **Fase atual:** Ideia no papel / Pré-produção
 
 Atualmente estamos definindo:
-- Lore
-- Mecânicas principais
-- Estrutura inicial do projeto
+- Multiplayer Core
 
 Todo o desenvolvimento será documentado e compartilhado publicamente.
 
